@@ -1,0 +1,7 @@
+"File","n","Correlation","Overall_P","Significant_Overall","Num_Sig_Loadings"
+"CT_attention_O_r-0.06.csv",15,0.921127005247635,0,TRUE,5
+"maxDTIV_attention_O_r-0.06.csv",15,0.961547822379247,0,TRUE,6
+"meanDTIV_attention_O_r-0.06.csv",15,0.886330609634305,0.003,TRUE,9
+"SATIV_attention_O_r-0.06.csv",15,0.960936972732382,0,TRUE,10
+"SLTIV_attention_O_r-0.06.csv",15,0.944427729383293,0,TRUE,4
+"SW_attention_O_r-0.06.csv",15,0.935998391286459,0,TRUE,4

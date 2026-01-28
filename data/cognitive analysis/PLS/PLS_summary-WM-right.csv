@@ -1,0 +1,7 @@
+"File","n","Correlation","Overall_P","Significant_Overall","Num_Sig_Loadings"
+"CT_zscore_rx2_back_r-0.05.csv",24,0.84580930758755,0,TRUE,1
+"maxDTIV_zscore_rx2_back_r-0.05.csv",24,0.895131112892479,0,TRUE,5
+"meanDTIV_zscore_rx2_back_r-0.05.csv",24,0.885688376277414,0,TRUE,5
+"SATIV_zscore_rx2_back_r-0.05.csv",24,0.901205884827791,0,TRUE,10
+"SLTIV_zscore_rx2_back_r-0.05.csv",24,0.849475920646132,0,TRUE,5
+"SW_zscore_rx2_back_r-0.05.csv",24,0.834497909782069,0,TRUE,2
